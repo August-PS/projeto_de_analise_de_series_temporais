@@ -1,4 +1,4 @@
-                                                                Previsão de Vendas e Faturamento com Facebook Prophet
+                                                           Previsão de Vendas e Faturamento com Facebook Prophet
 
 Este projeto utiliza modelagem de séries temporais com o Facebook Prophet para prever vendas e faturamento de um dataset fictício.
 O objetivo é demonstrar habilidades em ciência de dados, incluindo:
@@ -14,7 +14,7 @@ Criação e avaliação de modelos preditivos
 Comunicação de resultados
 
 
-                                                                                 Tecnologias Utilizadas
+                                                                              Tecnologias Utilizadas
 
 Python 3.9+
 
@@ -30,7 +30,7 @@ Facebook Prophet
 
 Jupyter Notebook
 
-                                                                       n Análises Realizadas
+                                                                     Análises Realizadas
 🔹 1. Análise Exploratória
 
 Verificação de tipos de dados
@@ -77,7 +77,7 @@ O erro médio absoluto foi calculado para avaliar a precisão dos model
 
 
 
-                                                                                       Conclusões
+                                                                            Conclusões
 
 O Prophet capturou bem tendências de vendas e faturamento.
 
