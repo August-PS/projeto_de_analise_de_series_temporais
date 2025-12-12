@@ -77,7 +77,7 @@ O erro médio absoluto foi calculado para avaliar a precisão dos model
 
 
 
-                                                                            Conclusões
+    Conclusões
 
 O Prophet capturou bem tendências de vendas e faturamento.
 
