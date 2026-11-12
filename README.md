@@ -94,3 +94,10 @@ Visualização
 Machine Learning para séries temporais
 
 Storytelling com dados
+
+
+## Relatório interativo no Power BI
+
+O arquivo [`faturamento.pbix`](projeto%20de%20analise%20de%20series%20temporais/faturamento.pbix) abre no Power BI Desktop e apresenta a evolução mensal do faturamento, faturamento por categoria, unidades vendidas por produto e filtros por período e loja.
+
+Para visualizar, baixe o arquivo e abra-o no Power BI Desktop. O relatório usa dados fictícios de vendas deste projeto.
